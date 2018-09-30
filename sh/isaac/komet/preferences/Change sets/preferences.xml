@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<map MAP_XML_VERSION="1.0">
+<entry key="49e4f8a9-5038-3119-97a4-eb7ee1a3a470.Keys.INITIALIZED" value="true"/>
+<entry key="85526abf-c427-3db0-b001-b4223427becf.Keys.GIT_LOCAL_FOLDER" value="data/isaac.data/changesets"/>
+<entry key="85526abf-c427-3db0-b001-b4223427becf.Keys.GIT_PASSWORD" value="DWJ7YNh_8Hz6c-zhmcSxtrRKEPXRpqY6EimBz4rQteo=---9beYG_263zPK6CrTZF4hDWTxegGCyp2iLkyaJFn4pOD-NEoES8dtYK9XO4IaTwmqBXKm7YOba8U="/>
+<entry key="85526abf-c427-3db0-b001-b4223427becf.Keys.GIT_URL" value="url"/>
+<entry key="85526abf-c427-3db0-b001-b4223427becf.Keys.GIT_USER_NAME" value="username"/>
+<entry key="ba5ccc5d-25c3-3347-9ad9-849393d2f2e9.Properties.CHILDREN_NODES" value=""/>
+<entry key="ba5ccc5d-25c3-3347-9ad9-849393d2f2e9.Properties.PROPERTY_SHEET_CLASS" value="sh.isaac.komet.preferences.ChangeSetPreferences"/>
+<entry key="sh.isaac.api.preferences.PreferenceNodeType" value="USER"/>
+</map>
