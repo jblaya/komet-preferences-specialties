@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<map MAP_XML_VERSION="1.0">
+<entry key="49e4f8a9-5038-3119-97a4-eb7ee1a3a470.Keys.INITIALIZED" value="true"/>
+<entry key="afc91a50-f000-36fc-a461-916c17a14bca.Keys.CONFIGURATION_NAME" value="KOMET"/>
+<entry key="afc91a50-f000-36fc-a461-916c17a14bca.Keys.DATASTORE_LOCATION" value="target/data/isaac.data"/>
+<entry key="afc91a50-f000-36fc-a461-916c17a14bca.Keys.ENABLE_EDITING" value="true"/>
+<entry key="ba5ccc5d-25c3-3347-9ad9-849393d2f2e9.Properties.PROPERTY_SHEET_CLASS" value="sh.isaac.komet.preferences.ConfigurationPreferences"/>
+<entry key="sh.isaac.api.preferences.PreferenceNodeType" value="CONFIGURATION"/>
+</map>
