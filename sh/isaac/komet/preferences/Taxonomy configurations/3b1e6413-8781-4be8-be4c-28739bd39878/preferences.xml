@@ -2,9 +2,9 @@
 <!DOCTYPE map SYSTEM "http://java.sun.com/dtd/preferences.dtd">
 <map MAP_XML_VERSION="1.0">
 <entry key="36159f5f-6833-3f27-a23f-bc18537f5a53.Keys.INCLUDE_DEFINING_TAXONOMY" value="true"/>
-<entry key="36159f5f-6833-3f27-a23f-bc18537f5a53.Keys.INVERSE_TREES" value=""/>
+<entry key="36159f5f-6833-3f27-a23f-bc18537f5a53.Keys.INVERSE_TREES" value="US subspecialty assemblage◽0f89c39a-097a-4c16-ab48-aaf9dbce80bf"/>
 <entry key="36159f5f-6833-3f27-a23f-bc18537f5a53.Keys.ITEM_NAME" value="Subspecialty view"/>
-<entry key="36159f5f-6833-3f27-a23f-bc18537f5a53.Keys.TREES" value="US subspecialty assemblage◽0f89c39a-097a-4c16-ab48-aaf9dbce80bf"/>
+<entry key="36159f5f-6833-3f27-a23f-bc18537f5a53.Keys.TREES" value=""/>
 <entry key="49e4f8a9-5038-3119-97a4-eb7ee1a3a470.Keys.INITIALIZED" value="true"/>
 <entry key="ba5ccc5d-25c3-3347-9ad9-849393d2f2e9.Properties.PROPERTY_SHEET_CLASS" value="sh.isaac.komet.preferences.TaxonomyItemPanel"/>
 <entry key="sh.isaac.api.preferences.PreferenceNodeType" value="CONFIGURATION"/>
