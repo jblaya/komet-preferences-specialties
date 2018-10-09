@@ -2,11 +2,11 @@
 <!DOCTYPE map SYSTEM "http://java.sun.com/dtd/preferences.dtd">
 <map MAP_XML_VERSION="1.0">
 <entry key="49e4f8a9-5038-3119-97a4-eb7ee1a3a470.Keys.INITIALIZED" value="true"/>
-<entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.ASSEMBLAGE" value="US jurisdiction specialty assemblage◽US jurisdiction specialty assemblage◽31e7819b-4236-4663-b794-130cfb5f83d0"/>
-<entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.ITEM_NAME" value="Add to US jurisdiction specialty assemblage"/>
+<entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.ASSEMBLAGE" value="US role to specialty assemblage◽US role to specialty assemblage◽31e7819b-4236-4663-b794-130cfb5f83d0"/>
+<entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.ITEM_NAME" value="Add to role to specialty assemblage"/>
 <entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.SEMANTIC_FIELD_CONCEPTS" value="specialty field of US jurisdiction specialty assemblage◽specialty◽a59b90dc-3525-4546-8700-d6575bc9e0dd"/>
 <entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.SHOW_HISTORY" value="true"/>
-<entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.SHOW_MODULE" value="true"/>
+<entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.SHOW_MODULE" value="false"/>
 <entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.SHOW_PATH" value="true"/>
 <entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.SHOW_SEARCH" value="true"/>
 <entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.SHOW_STATUS" value="true"/>
