@@ -2,7 +2,7 @@
 <!DOCTYPE map SYSTEM "http://java.sun.com/dtd/preferences.dtd">
 <map MAP_XML_VERSION="1.0">
 <entry key="49e4f8a9-5038-3119-97a4-eb7ee1a3a470.Keys.INITIALIZED" value="true"/>
-<entry key="ba5ccc5d-25c3-3347-9ad9-849393d2f2e9.Properties.CHILDREN_NODES" value="028d1d31-f70f-4aa8-8270-06aedf299d48|!%|5ab15909-2495-4220-ab7c-361cfec908ae"/>
+<entry key="ba5ccc5d-25c3-3347-9ad9-849393d2f2e9.Properties.CHILDREN_NODES" value="028d1d31-f70f-4aa8-8270-06aedf299d48|!%|5ab15909-2495-4220-ab7c-361cfec908ae|!%|de489982-106a-4570-b6c0-c6ade3bd6774"/>
 <entry key="ba5ccc5d-25c3-3347-9ad9-849393d2f2e9.Properties.PROPERTY_SHEET_CLASS" value="sh.isaac.komet.preferences.SynchronizationItems"/>
 <entry key="sh.isaac.api.preferences.PreferenceNodeType" value="USER"/>
 </map>

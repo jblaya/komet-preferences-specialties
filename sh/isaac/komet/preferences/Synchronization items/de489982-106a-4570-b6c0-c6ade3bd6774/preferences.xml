@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<map MAP_XML_VERSION="1.0">
+<entry key="3e8fe51d-da60-3cac-8a01-972562c292c8.Keys.ITEM_ACTIVE" value="false"/>
+<entry key="49e4f8a9-5038-3119-97a4-eb7ee1a3a470.Keys.INITIALIZED" value="true"/>
+<entry key="ba5ccc5d-25c3-3347-9ad9-849393d2f2e9.Properties.CHILDREN_NODES" value=""/>
+<entry key="ba5ccc5d-25c3-3347-9ad9-849393d2f2e9.Properties.PROPERTY_SHEET_CLASS" value="sh.isaac.komet.preferences.SynchronizationItemPanel"/>
+<entry key="sh.isaac.api.preferences.PreferenceNodeType" value="USER"/>
+</map>
