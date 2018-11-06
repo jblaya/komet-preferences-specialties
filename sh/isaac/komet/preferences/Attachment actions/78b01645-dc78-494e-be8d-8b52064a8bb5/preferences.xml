@@ -2,8 +2,8 @@
 <!DOCTYPE map SYSTEM "http://java.sun.com/dtd/preferences.dtd">
 <map MAP_XML_VERSION="1.0">
 <entry key="49e4f8a9-5038-3119-97a4-eb7ee1a3a470.Keys.INITIALIZED" value="true"/>
-<entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.ASSEMBLAGE" value="Case group assemblage◽Case group assemblage◽e93ff429-3bca-4bdc-a11a-eb38b0dcfc85"/>
-<entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.ITEM_NAME" value="Add to Case group assemblage"/>
+<entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.ASSEMBLAGE" value="Case group assemblage◽Contains all of the member assemblages for each specialty group◽e93ff429-3bca-4bdc-a11a-eb38b0dcfc85"/>
+<entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.ITEM_NAME" value="Add to Specialty group assemblage"/>
 <entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.SEMANTIC_FIELD_CONCEPTS" value=""/>
 <entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.SHOW_HISTORY" value="true"/>
 <entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.SHOW_MODULE" value="true"/>
