@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<map MAP_XML_VERSION="1.0">
+<entry key="49e4f8a9-5038-3119-97a4-eb7ee1a3a470.Keys.INITIALIZED" value="true"/>
+<entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.ASSEMBLAGE" value="Human Dx TagItem ID assemblage◽Human Dx TagItem ID assemblage◽6d9fbcde-5022-48a8-ad89-a4567a2dd405"/>
+<entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.ITEM_NAME" value="Add Case tag ID"/>
+<entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.SEMANTIC_FIELD_CONCEPTS" value="TagItem ID field of Human Dx TagItem ID assemblage◽TagItem ID◽3f21357a-d823-42f7-8323-3f39accc07f8"/>
+<entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.SHOW_HISTORY" value="true"/>
+<entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.SHOW_MODULE" value="true"/>
+<entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.SHOW_PATH" value="true"/>
+<entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.SHOW_SEARCH" value="true"/>
+<entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.SHOW_STATUS" value="true"/>
+<entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.VERSION_TYPE_FOR_ACTION" value="CONCEPT"/>
+<entry key="ba5ccc5d-25c3-3347-9ad9-849393d2f2e9.Properties.PROPERTY_SHEET_CLASS" value="sh.isaac.komet.preferences.AttachmentActionPanel"/>
+<entry key="sh.isaac.api.preferences.PreferenceNodeType" value="CONFIGURATION"/>
+</map>
