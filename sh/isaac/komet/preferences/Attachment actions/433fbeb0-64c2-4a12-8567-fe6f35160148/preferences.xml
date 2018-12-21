@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<map MAP_XML_VERSION="1.0">
+<entry key="49e4f8a9-5038-3119-97a4-eb7ee1a3a470.Keys.INITIALIZED" value="true"/>
+<entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.ASSEMBLAGE" value="Human Dx US English dialect◽Human Dx US English dialect◽64c3a9a0-85cf-4855-9b90-2061adac2112"/>
+<entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.ITEM_NAME" value="Add to Human Dx dialect"/>
+<entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.SEMANTIC_FIELD_CONCEPTS" value="Acceptability field of Human Dx US English dialect◽Acceptability◽a2cb8b0f-7cc0-481a-9567-212d361ea483"/>
+<entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.SHOW_HISTORY" value="true"/>
+<entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.SHOW_MODULE" value="true"/>
+<entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.SHOW_PATH" value="true"/>
+<entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.SHOW_SEARCH" value="true"/>
+<entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.SHOW_STATUS" value="true"/>
+<entry key="8c6a76da-206e-314c-b1e2-eda9037d431e.Keys.VERSION_TYPE_FOR_ACTION" value="DESCRIPTION"/>
+<entry key="ba5ccc5d-25c3-3347-9ad9-849393d2f2e9.Properties.PROPERTY_SHEET_CLASS" value="sh.isaac.komet.preferences.AttachmentActionPanel"/>
+<entry key="sh.isaac.api.preferences.PreferenceNodeType" value="CONFIGURATION"/>
+</map>
